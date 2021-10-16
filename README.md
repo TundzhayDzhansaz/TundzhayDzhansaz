@@ -1,4 +1,4 @@
-### Hi there, I'm TundzhayDzhansaz👋
+### Hi there, I'm Tundzhay Dzhansaz 👋
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects (SwiftUI | UIKit)
@@ -12,5 +12,4 @@
 
 <br />
 
----
 
