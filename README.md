@@ -1,7 +1,5 @@
 ### Hi there, I'm @TundzhayDzhansaz(@Devinsomnia)👋
 
-## I'm a Computer Engineer, not a Developer!!
-
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects (SwiftUI | UIKit)
 - ⚡ Fun fact: I love to travel and discover new gems
@@ -15,7 +13,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][cssplaylist]
+[<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/instagram/instagram.png" />][cssplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
@@ -29,12 +27,4 @@
 <br />
 <br />
 
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="TundzhayDzhansaz's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TundzhayDzhansaz&show_icons=true&hide_border=true" />
-
-</details>
 
