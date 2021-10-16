@@ -1,6 +1,6 @@
 ### Hi there, I'm Tundzhay Dzhansaz 👋
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning AI, ML, BlockChain, SwiftUI 
 - 🥅 2021 Goals: Contribute more to Open Source projects (SwiftUI | UIKit)
 - ⚡ Fun fact: I love to travel and discover new gems
 
