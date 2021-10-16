@@ -4,10 +4,11 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects (SwiftUI | UIKit)
 - ⚡ Fun fact: I love to travel and discover new gems
 
-### Connect with me:
 
-[<img align="left" alt="tuncaycansiz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="tundzhay.dzhansaz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<div align="center">
+  <p>Connect with me</p>
+  <a href="https://www.linkedin.com/in/tuncaycansiz/" target="_blank">LinkedIn</a> • <a href="https://www.instagram.com/tundzhay.dzhansaz/" target="_blank">Instagram</a> 
+</div>
 
 <br />
 
